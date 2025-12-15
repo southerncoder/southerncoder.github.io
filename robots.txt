@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Sitemap: https://southerncoding.dev/sitemap.xml
+
+Disallow: /blog/semi-private-draft
